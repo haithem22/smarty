@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "348093806343",
+    "firebase_url": "https://haithem-699e7.firebaseio.com",
+    "project_id": "haithem-699e7",
+    "storage_bucket": "haithem-699e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348093806343:android:c8a199404a5dc4e5",
+        "android_client_info": {
+          "package_name": "com.flatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348093806343-rajjpi2tak5rpggcsokhelg47ll1q4p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmNtywnaToPsBALenIOWWaDTw190gPYs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
